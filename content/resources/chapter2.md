@@ -4,8 +4,13 @@ description: This resource provides information on maxwell?s equations, linear p
   propagation in isotropic media, bloch equations, dielectric susceptibility, rate
   equations, pulse propagation with dispersion and gain, kramers-kroenig relations
   and pulse shapes and time-bandwidth products.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-977-ultrafast-optics-spring-2005/d99af77c9cdca438616ee745ba41e548_chapter2.pdf
+file: /media/courses/6-977-ultrafast-optics-spring-2005/d99af77c9cdca438616ee745ba41e548_chapter2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chapter2.pdf
 uid: d99af77c-9cdc-a438-616e-e745ba41e548

@@ -6,8 +6,13 @@ description: This resource provides information on generation and characterizati
   classical external field, maxwell-bloch equations, rate equations, rate equations
   for two-level atom, building-up of laser oscillation, stability of CW laser and
   relaxation oscillation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-977-ultrafast-optics-spring-2005/fbe6c0d65e6202d1d0d4f77a0a481109_rate_relaxation.pdf
+file: /media/courses/6-977-ultrafast-optics-spring-2005/fbe6c0d65e6202d1d0d4f77a0a481109_rate_relaxation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: rate_relaxation.pdf
 uid: fbe6c0d6-5e62-02d1-d0d4-f77a0a481109

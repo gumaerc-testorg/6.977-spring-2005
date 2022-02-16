@@ -4,8 +4,13 @@ description: 'This resource provides information on The optical kerr-effect, sel
   modulation (SPM), the nonlinear schr?dinger equation, universality of the NSE, soliton
   perturbation theory, soliton instabilities by periodic perturbations, pulse compression,
   appendix: sech-algebra and summary.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-977-ultrafast-optics-spring-2005/c439bcfab7826300aec0017e7de1f2fd_chapter3.pdf
+file: /media/courses/6-977-ultrafast-optics-spring-2005/c439bcfab7826300aec0017e7de1f2fd_chapter3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chapter3.pdf
 uid: c439bcfa-b782-6300-aec0-017e7de1f2fd
