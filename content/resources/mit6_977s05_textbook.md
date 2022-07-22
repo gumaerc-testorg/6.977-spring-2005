@@ -5,6 +5,7 @@ file: /courses/6-977-ultrafast-optics-spring-2005/f806ff596f9bffb74003360e2c05c0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

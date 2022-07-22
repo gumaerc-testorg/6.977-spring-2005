@@ -9,6 +9,7 @@ file: /courses/6-977-ultrafast-optics-spring-2005/48248d64853c39e4ab7347f6e3fc34
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 48248d64-853c-39e4-ab73-47f6e3fc34ec
 ---
 This resource is a problem set 7 on ultrafast optics and covers 2 problem questions on the topics active mode-locking with a phase modulator, actively mode-locked laser with flat and finite gain
 profile.
-

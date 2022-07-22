@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_optical.jpg
 uid: 75652343-f703-6071-8eec-94dd29bcb20d
 ---
 Optical communications. Lasers deliver at least ten times more data volume than conventional radio-frequency communication systems. (Image courtesy of Optical Communications Group, Jet Propulsion Laboratory.)
-
