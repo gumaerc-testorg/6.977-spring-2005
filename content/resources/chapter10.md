@@ -4,6 +4,7 @@ description: This resource provides information on intensity autocorrelation, in
   autocorrelation (IAC), frequency resolved optical gating (FROG) and spectral interferometry
   and SPIDER.
 file: /courses/6-977-ultrafast-optics-spring-2005/03f3d1bf00be3d3b51a028626c41c519_chapter10.pdf
+file_size: 636717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

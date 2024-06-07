@@ -4,6 +4,7 @@ description: This resource provides table of contents for lecture files and prov
   information about course mission, pulse characteristics, applications, review of
   laser essentials, history and laser materials.
 file: /courses/6-977-ultrafast-optics-spring-2005/42eed9876e49d4dd6ca1464ac3dc8116_chapter1.pdf
+file_size: 647872
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
