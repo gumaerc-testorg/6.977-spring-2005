@@ -4,6 +4,7 @@ description: This resource is a problem set 6 on ultrafast optics and covers 2 p
   questions on the topics passive q-switching, active mode-locking and gaussian pulse
   analysis.
 file: /courses/6-977-ultrafast-optics-spring-2005/951bfea5542503619bafd45afa5bd897_ps6.pdf
+file_size: 108212
 file_type: application/pdf
 learning_resource_types:
 - Assignments

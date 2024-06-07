@@ -4,6 +4,7 @@ description: This resource provides information on slow saturable absorber mode 
   fast saturable absorber mode locking, soliton mode locking and dispersion managed
   soliton formation.
 file: /courses/6-977-ultrafast-optics-spring-2005/c74eb22e6271e24eae3617c70e500eb4_chapter6.pdf
+file_size: 483017
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
