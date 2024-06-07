@@ -4,6 +4,7 @@ description: Optical communications. Lasers deliver at least ten times more data
   than conventional radio-frequency communication systems. (Image courtesy of Optical
   Communications Group, Jet Propulsion Laboratory.)
 file: /courses/6-977-ultrafast-optics-spring-2005/75652343f70360718eec94dd29bcb20d_chp_optical.jpg
+file_size: 49568
 file_type: image/jpeg
 image_metadata:
   caption: ''

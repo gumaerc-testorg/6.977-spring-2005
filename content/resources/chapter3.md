@@ -5,6 +5,7 @@ description: 'This resource provides information on The optical kerr-effect, sel
   perturbation theory, soliton instabilities by periodic perturbations, pulse compression,
   appendix: sech-algebra and summary.'
 file: /courses/6-977-ultrafast-optics-spring-2005/c439bcfab7826300aec0017e7de1f2fd_chapter3.pdf
+file_size: 2563016
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
