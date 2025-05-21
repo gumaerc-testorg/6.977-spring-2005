@@ -3,7 +3,7 @@ content_type: resource
 description: This resource is a problem set 2 on ultrafast optics and covers 2 problem
   questions on the topics diffraction grating pair and prism pair along with list
   of some useful references.
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/05b03a339f06b9027cec30459d98a05c_ps2.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/05b03a339f06b9027cec30459d98a05c_ps2.pdf
 file_size: 122790
 file_type: application/pdf
 learning_resource_types:

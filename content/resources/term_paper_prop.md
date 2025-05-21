@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides guidelines on the submission of the term paper
   assignment and some example topics.
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/051eedfbaf856b72819dd0090a50aeb4_term_paper_prop.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/051eedfbaf856b72819dd0090a50aeb4_term_paper_prop.pdf
 file_size: 96936
 file_type: application/pdf
 learning_resource_types:
