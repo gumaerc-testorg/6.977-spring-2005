@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on kerr-lens mode locking (KLM) and
   additive pulse mode locking.
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/af1dd6d54e9362d742952e03373664a0_chapter7.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/af1dd6d54e9362d742952e03373664a0_chapter7.pdf
 file_size: 1054669
 file_type: application/pdf
 learning_resource_types:

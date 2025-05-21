@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on pump probe measurements, electro-optic
   sampling, THz spectroscopy, imaging and four-wave mixing.
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/e2a85dc16b8156edce617ae981f4d115_chapter11.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/e2a85dc16b8156edce617ae981f4d115_chapter11.pdf
 file_size: 428904
 file_type: application/pdf
 learning_resource_types:

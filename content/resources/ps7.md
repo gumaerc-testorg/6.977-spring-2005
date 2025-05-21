@@ -5,7 +5,7 @@ description: 'This resource is a problem set 7 on ultrafast optics and covers 2 
   laser with flat and finite gain
 
   profile.'
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/48248d64853c39e4ab7347f6e3fc34ec_ps7.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/48248d64853c39e4ab7347f6e3fc34ec_ps7.pdf
 file_size: 74752
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: 'This resource is a problem set 9 on ultrafast optics and covers 1 
   question on the topic fast saturable absorber mode-locked ti:sapphire
 
   laser - part II.'
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/b534d6047e30b12a3202a638aad059cc_ps9.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/b534d6047e30b12a3202a638aad059cc_ps9.pdf
 file_size: 76935
 file_type: application/pdf
 learning_resource_types:
