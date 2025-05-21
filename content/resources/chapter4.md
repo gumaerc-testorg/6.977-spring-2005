@@ -4,7 +4,7 @@ description: 'This resource provides information on rate equations, built-up of 
   oscillation and continuous wave operation, stability and relaxation oscillations,
   Q-switching, example: single mode CW-Q-switched microchip lasers, Q-switched mode
   locking and summary.'
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/f8cb748e53e54d13e67cf102f7043405_chapter4.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/f8cb748e53e54d13e67cf102f7043405_chapter4.pdf
 file_size: 588012
 file_type: application/pdf
 learning_resource_types:

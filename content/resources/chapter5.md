@@ -4,7 +4,7 @@ description: This resource provides information on the master equation of mode l
   active mode locking by loss modulation, active mode-locking by phase modulation,
   active mode locking with additional SPM, active mode locking with soliton formation,
   summary and active mode locking with detuning.
-file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/aa074eed8b1aa7e60814d42a408b5cc0_chapter5.pdf
+file: /courses/6-977-ultrafast-optics-spring-2005/aa074eed8b1aa7e60814d42a408b5cc0_chapter5.pdf
 file_size: 827678
 file_type: application/pdf
 learning_resource_types:
