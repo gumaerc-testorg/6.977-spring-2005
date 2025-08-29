@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-977-ultrafast-optics-spring-2005/f806ff596f9bffb74003360e2c05c086_MIT6_977S05_textbook.pdf
+file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/f806ff596f9bffb74003360e2c05c086_MIT6_977S05_textbook.pdf
 file_size: 8953640
 file_type: application/pdf
 learning_resource_types:

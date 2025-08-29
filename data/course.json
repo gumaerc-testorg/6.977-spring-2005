@@ -44,10 +44,11 @@
     "website": "6-977-ultrafast-optics-spring-2005"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets"
   ],
   "site_uid": "460d7b83-41fc-471b-beeb-fa71219a3761",
   "site_short_id": "6.977-spring-2005",
+  "site_url_path": "courses/6-977-ultrafast-optics-spring-2005",
   "title": "Course Metadata"
 }
