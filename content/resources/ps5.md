@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a problem set 5 on ultrafast optics and covers 2 problem
   questions on the topics pulse compression in fibers and relaxation oscillations.
-file: /courses/6-977-ultrafast-optics-spring-2005/666556dc50e96308766e3543ddaef75e_ps5.pdf
+file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/666556dc50e96308766e3543ddaef75e_ps5.pdf
 file_size: 93700
 file_type: application/pdf
 learning_resource_types:

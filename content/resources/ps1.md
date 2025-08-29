@@ -3,7 +3,7 @@ content_type: resource
 description: This resource is a problem set 1 on ultrafast optics and covers 3 problem
   questions on the topics time-bandwidth product, gires-tournois interferometer and
   kramers-kr?onig relations.
-file: /courses/6-977-ultrafast-optics-spring-2005/4e85dd8faba478268a303c1f7dadba02_ps1.pdf
+file: /ol-ocw-studio-app/courses/6-977-ultrafast-optics-spring-2005/4e85dd8faba478268a303c1f7dadba02_ps1.pdf
 file_size: 116729
 file_type: application/pdf
 learning_resource_types:
